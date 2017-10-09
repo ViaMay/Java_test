@@ -1,0 +1,23 @@
+{
+  "name": "scripttests",
+  "version": "1.0.0",
+  "description": "javascript Songline tests",
+  "main": "spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArniDzhan/SongLine-AutoTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArniDzhan/SongLine-AutoTests/issues"
+  },
+  "homepage": "https://github.com/ArniDzhan/SongLine-AutoTests#readme",
+  "dependencies": {
+    "selenium-binaries": "^0.10.0"
+	
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.galenframework.specs.idea-1.0.0-SNAPSHOT" level="application" />
+    <orderEntry type="library" name="com.galenframework.specs-1.0.0-SNAPSHOT" level="application" />
+    <orderEntry type="library" name="com.galenframework.specs.ide-1.0.0-SNAPSHOT" level="application" />
+  </component>
+</module>
